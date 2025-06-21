@@ -1,0 +1,46 @@
+services:
+  multimodal-app:
+    build: .
+    container_name: multimodal-search-app
+    ports:
+      - "8000:8000"
+    volumes:
+      # Montar todo el directorio para desarrollo
+      - .:/app
+    networks:
+      - app-network
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped
+
+networks:
+  app-network:
+    driver: bridge
+
+services:
+  multimodal-app:
+    build: .
+    container_name: multimodal-search-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./users.json:/app/users.json
+      - ./favorites_*.json:/app/favorites_*.json
+      - ./search_history_*.json:/app/search_history_*.json
+    environment:
+      - FLET_WEB=true
+      - FLET_PORT=8000
+      - FLET_HOST=0.0.0.0
+      - PYTHONPATH=/app
+    restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  app-data:
+    driver: local

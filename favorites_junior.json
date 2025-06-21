@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Dragon Ball Super: Broly",
+    "year": null,
+    "episodes": 1,
+    "score": 8.19,
+    "synopsis": "Forty-one years ago on Planet Vegeta, home of the infamous Saiyan warrior race, King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son. Believing that Broly's power would one day surpass that of his child, Vegeta, the ...",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1575/93498.jpg",
+    "mal_url": "https://myanimelist.net/anime/36946/Dragon_Ball_Super__Broly",
+    "status": "Finished Airing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "Anime",
+    "description": "Forty-one years ago on Planet Vegeta, home of the infamous Saiyan warrior race, King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son. Believing that Broly's power would one day surpass that of his child, Vegeta, the ...",
+    "preview_link": "https://myanimelist.net/anime/36946/Dragon_Ball_Super__Broly",
+    "favorite_id": 1,
+    "added_date": "2025-06-21"
+  },
+  {
+    "title": "Dragon Ball",
+    "year": 1986,
+    "episodes": 153,
+    "score": 7.98,
+    "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all sev...",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg",
+    "mal_url": "https://myanimelist.net/anime/223/Dragon_Ball",
+    "status": "Finished Airing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "Anime",
+    "description": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all sev...",
+    "preview_link": "https://myanimelist.net/anime/223/Dragon_Ball",
+    "favorite_id": 2,
+    "added_date": "2025-06-21"
+  },
+  {
+    "title": "So be it, at this moment",
+    "authors": [
+      "DAVY D. RUB"
+    ],
+    "description": "Throughout the history of humanity, the lower classes have always considered God and nature as enemies. The theme of the novel: So be it, at this moment, he exposes it with extreme crudeness.",
+    "published_date": "2025-06-15",
+    "page_count": 86,
+    "categories": [
+      "Antiques & Collectibles"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=DeZlEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "preview_link": "http://books.google.com.mx/books?id=DeZlEQAAQBAJ&pg=PP1&dq=It&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+    "average_rating": "Sin calificación",
+    "ratings_count": 0,
+    "type": "Libros",
+    "favorite_id": 3,
+    "added_date": "2025-06-21"
+  },
+  {
+    "title": "Estructura y significacion de Pedro Paramo",
+    "authors": [
+      "Beatriz González Stephan"
+    ],
+    "description": "Sin descripción disponible",
+    "published_date": "1990",
+    "page_count": 132,
+    "categories": [
+      "Sin categoría"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=dpS5RHCqJIsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "preview_link": "http://books.google.com.mx/books?id=dpS5RHCqJIsC&pg=PA25&dq=pedro&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+    "average_rating": 5,
+    "ratings_count": 1,
+    "type": "Libros",
+    "favorite_id": 4,
+    "added_date": "2025-06-21"
+  }
+]

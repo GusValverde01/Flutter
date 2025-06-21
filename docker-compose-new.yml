@@ -1,0 +1,17 @@
+services:
+  multimodal-app:
+    build: .
+    container_name: multimodal-search-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    networks:
+      - app-network
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped
+
+networks:
+  app-network:
+    driver: bridge

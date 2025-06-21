@@ -1,0 +1,93 @@
+[
+  {
+    "query": "pedro páramo",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490081.0285
+  },
+  {
+    "query": "pedro páramo",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490086.601651
+  },
+  {
+    "query": "pedro páramo",
+    "content_type": "Películas",
+    "results_count": 0,
+    "date": "2025-06-21",
+    "timestamp": 1750490090.12509
+  },
+  {
+    "query": "it",
+    "content_type": "Películas",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490098.051394
+  },
+  {
+    "query": "it",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490104.59398
+  },
+  {
+    "query": "dragon ball",
+    "content_type": "Anime",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490117.431439
+  },
+  {
+    "query": "it",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490217.148625
+  },
+  {
+    "query": "Eso",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490227.575902
+  },
+  {
+    "query": "Pedro Páramo",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490241.482714
+  },
+  {
+    "query": "it",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750490335.319135
+  },
+  {
+    "query": "It",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750531245.686915
+  },
+  {
+    "query": "pedro",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750531264.04634
+  },
+  {
+    "query": "dragon ball",
+    "content_type": "Anime",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750539695.487551
+  }
+]

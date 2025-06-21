@@ -1,0 +1,30 @@
+[
+  {
+    "query": "It",
+    "content_type": "Libros",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750531128.154396
+  },
+  {
+    "query": "Guerra",
+    "content_type": "Películas",
+    "results_count": 8,
+    "date": "2025-06-21",
+    "timestamp": 1750531154.261568
+  },
+  {
+    "query": "Guerra",
+    "content_type": "Anime",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750531160.804089
+  },
+  {
+    "query": "Dragon Ball",
+    "content_type": "Anime",
+    "results_count": 15,
+    "date": "2025-06-21",
+    "timestamp": 1750531168.37993
+  }
+]
