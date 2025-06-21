@@ -126,6 +126,8 @@ python main_mobile.py
 #    📷 Escanea el QR que aparece en consola
 #    🎉 ¡Tu app se ejecuta en el móvil!
 ```
+### Ejemplo de QR generado
+![image](https://github.com/user-attachments/assets/03212202-b202-4671-ae86-3bd15ef7ff9b)
 
 ## 📊 Datos Persistentes
 
