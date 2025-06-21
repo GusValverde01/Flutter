@@ -11,6 +11,23 @@ Una aplicación completa desarrollada con **Flet** que permite buscar y gestiona
 - ✅ **Autenticación de usuarios**: Sistema de login y registro
 - ✅ **Interfaz moderna**: Diseñada con Flet (Flutter para Python)
 
+## Pruebas de Funcionamiento
+### Login
+![image](https://github.com/user-attachments/assets/a1cdb52e-bb7e-4414-86a3-8db003ea4234)
+
+### Registro de Usuario
+![image](https://github.com/user-attachments/assets/24957e7d-0752-401c-9f4c-da0a81513635)
+
+### Búsqueda 
+![image](https://github.com/user-attachments/assets/39ac82f1-e51e-4727-845e-90d20d361949)
+
+### Favoritos
+![image](https://github.com/user-attachments/assets/4f2b012e-acd3-436a-8c12-36d7e0d7cdf9)
+
+### Contenido Recomendado
+![image](https://github.com/user-attachments/assets/3f9a9554-8378-49fb-a5fe-e38d62d6c7af)
+
+
 ## 🛠️ Instalación Local
 
 ### 1. Crear entorno virtual
