@@ -135,17 +135,9 @@ python main_mobile.py
 - `favorites_[usuario].json`: Favoritos por usuario
 - `search_history_[usuario].json`: Historial de búsquedas
 
-
-## 📝 Notas
-
-- La aplicación funciona sin claves de API
-- Los datos se almacenan localmente en archivos JSON
-- Compatible con Windows, macOS y Linux
-- Interfaz responsiva y moderna
-
 ## 🎉 ¡Aplicación Dockerizada Exitosamente!
 
-Tu aplicación está corriendo en Docker. Para acceder:
+  Sigue los pasos de Docker para iniciar la aplicación. Una vez realizado:
 
 1. **Abre tu navegador**
 2. **Ve a**: http://localhost:8000
