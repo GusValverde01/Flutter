@@ -92,6 +92,9 @@ docker-compose -f docker-compose-new.yml down
 ```bash
 http://localhost:8000
 ```
+### Se debe mostrar en consola esto si fue un éxito
+![image](https://github.com/user-attachments/assets/3cefaf2e-a0e1-440a-830e-af8f140218de)
+
 
 ## 🔗 APIs Utilizadas
 
